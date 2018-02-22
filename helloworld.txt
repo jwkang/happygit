@@ -3,3 +3,5 @@ hello there
 modified
 
 modified2
+
+INTEG-1234 fixed
